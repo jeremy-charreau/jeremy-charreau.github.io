@@ -1,4 +1,5 @@
 body{ text-align: center;
+    
 }
 
 h1{
@@ -9,8 +10,12 @@ h1{
     margin: auto;
     text-transform: uppercase;
     border-radius: 10px;
+    
     transition: all 1s;
+    
+    
 }
 h1:hover{ 
     background-color: red;
+    
 }
